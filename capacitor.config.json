@@ -1,0 +1,24 @@
+{
+  "appId": "com.yblig.twinpost",
+  "appName": "TwinPost",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#0e0f16"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 600,
+      "launchAutoHide": true,
+      "showSpinner": false,
+      "backgroundColor": "#0e0f16"
+    },
+    "SystemBars": {
+      "insetsHandling": "css",
+      "hidden": false
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_notify",
+      "iconColor": "#7C5CFF"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tap":    { "preset": "tap", "pitch": 1.15, "volume": 0.5 },
+  "open":   { "preset": "whoosh", "pitch": 1.4, "volume": 0.3, "lowpass": 3000 },
+  "back":   { "preset": "back", "volume": 0.45 },
+  "copy":   { "preset": "tick", "pitch": 1.2, "volume": 0.6 },
+  "save":   { "preset": "confirm", "volume": 0.55 },
+  "send":   { "preset": "swipe", "pitch": 1.1, "volume": 0.55 },
+  "posted": { "preset": "coin", "pitch": 0.95, "volume": 0.55 },
+  "win":    { "preset": "win", "volume": 0.6 },
+  "delete": { "preset": "thud", "pitch": 1.2, "volume": 0.5, "lowpass": 2000 },
+  "error":  { "preset": "error", "volume": 0.5 },
+  "toggle": { "preset": "toggle", "volume": 0.45 }
+}
